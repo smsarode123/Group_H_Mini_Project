@@ -1,5 +1,7 @@
 package com.quizproject.grouph;
 
+import java.sql.*;
+
 public class GetConnection {
 
 	Connection con=null;
