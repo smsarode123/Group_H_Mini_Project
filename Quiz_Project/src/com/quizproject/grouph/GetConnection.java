@@ -3,7 +3,8 @@ package com.quizproject.grouph;
 import java.sql.*;
 
 public class GetConnection {
-
+// this ffile is for JDBC connectio..
+	
 	Connection con=null;
 	//creating connection
 	public Connection getConnectionDetails() throws SQLException {
